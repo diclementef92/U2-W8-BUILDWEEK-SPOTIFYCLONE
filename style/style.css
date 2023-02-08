@@ -22,7 +22,6 @@
 }
 
 nav {
-  position: -webkit-sticky;
   position: sticky;
   left: 0;
   top: 0;
@@ -379,7 +378,6 @@ div.intestazioneAlbum div.col-9 h5 {
   cursor: pointer;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 .bottoniAlbum button:hover {
@@ -503,7 +501,6 @@ div.intestazioneAlbum div.col-9 h5 {
   cursor: pointer;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
 }
 .bottoniArtista button:hover {
@@ -603,7 +600,6 @@ div.intestazioneAlbum div.col-9 h5 {
   border: 0;
   font-size: 16px;
   -moz-user-select: none;
-   -ms-user-select: none;
        user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
@@ -629,7 +625,6 @@ div.intestazioneAlbum div.col-9 h5 {
   border: 0;
   font-size: 16px;
   -moz-user-select: none;
-   -ms-user-select: none;
        user-select: none;
   -webkit-user-select: none;
   touch-action: manipulation;
@@ -695,7 +690,6 @@ div.intestazioneAlbum div.col-9 h5 {
   cursor: pointer;
   -webkit-user-select: none;
      -moz-user-select: none;
-      -ms-user-select: none;
           user-select: none;
   padding: 0;
   font-size: 1.8em;
